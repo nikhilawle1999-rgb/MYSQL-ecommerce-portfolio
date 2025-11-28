@@ -48,6 +48,6 @@ SELECT * FROM sales_dashboard;
 **📁 Files:**
 - `setup_complete_database.sql` - One-click setup
 - `scripts/` - Advanced queries
-- `ERD/` - Database diagram
+
 
 
