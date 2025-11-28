@@ -2,7 +2,7 @@
 
 **Professional, production-ready MySQL ecommerce database** demonstrating advanced SQL skills for Data Engineering roles.
 
-[![ER Diagram](ERD/ecommerce_erd.png)](ERD/ecommerce_erd.png)
+(ERD/ecommerce_erd.png)](ERD/ecommerce_erd.png)
 
  ✨Project Features
 
